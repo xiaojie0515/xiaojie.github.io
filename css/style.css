@@ -373,6 +373,7 @@ body {
   font-size: 40px;
   line-height: 40px;
   letter-spacing: 2px;
+  color: #ffebcd;
 }
 #subtitle {
   font-size: 16px;
@@ -415,6 +416,7 @@ body {
   cursor: pointer;
 }
 .main-nav-link {
+  color: #fff8dc;
   font-weight: 300;
   letter-spacing: 1px;
 }
@@ -440,6 +442,7 @@ body {
 }
 #nav-rss-link:before {
   content: "\f09e";
+  color: #fff8dc;
 }
 #nav-search-btn:before {
   content: "\f002";
